@@ -41,8 +41,8 @@
 <!-- MARKUP -->
 <section class="scrollyteller sticky">
     <header>
-        <h1>HED</h1>
-        <p class="subhead">TK TK TK</p>
+        <h1>Public sector salary costs grew dramatically</h1>
+        <!-- <p class="subhead">TK TK TK</p> -->
     </header>
     <div class="chart sticky">
         <!-- svelte-ignore a11y-missing-attribute -->
